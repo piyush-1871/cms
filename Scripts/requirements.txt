@@ -1,0 +1,10 @@
+streamlit 
+pandas 
+mysql.connector
+datetime
+os
+PIL 
+Image
+plotly.express
+pyotp
+time
