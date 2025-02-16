@@ -2,8 +2,7 @@ streamlit
 pandas 
 mysql.connector
 datetime
-PIL 
-Image
+pillow
 plotly.express
 pyotp
 time
